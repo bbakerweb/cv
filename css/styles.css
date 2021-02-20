@@ -1,0 +1,21 @@
+body {
+  background-color: azure;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-width: 5px;
+  border-color: gray;
+  width: 5%
+}
+
+h1 {
+  color: #66BFBF;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px lightgray;
+}
+
+h3 {
+  color: #66BFBF;
+}
