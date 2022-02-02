@@ -5,4 +5,6 @@ function addSum(first,last){
 
 firstName = prompt("Enter a First name");
 lastName = prompt("Enter a last name");
-addSum(firstName,lastName);
+response = addSum(firstName,lastName);
+// Send an alert with the result
+alert(response);
